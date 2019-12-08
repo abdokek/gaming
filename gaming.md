@@ -7,6 +7,7 @@
 **PC**
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
+* **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
 * [**FitGirl**](https://tinyurl.com/h6e7wye) - (PC, Huge Library, DDL & Torrents)
 * [**Xatab**](https://tinyurl.com/y58mjdw2) - (PC, Huge Library, Torrents)
 * [**RGMechanics**](https://tinyurl.com/y64een9v) or [RG-Mechanics](https://tinyurl.com/yy2pxng2) - (PC, Huge Library, DDL & Torrents)
