@@ -4,7 +4,9 @@
 * [Music, Podcasts & Radio](https://redd.it/dhw2lh)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
-**PC**
+***
+
+###PC
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
 * **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
@@ -38,7 +40,9 @@
 * [Macintosh Garden](https://tinyurl.com/ml37l5) - (Mac, Medium Library, DDL)
 * [MacGameFiles](https://tinyurl.com/y6f5lsn3) - (Mac, Big Library, DDL)
 
-**Emulators/Roms**
+***
+
+###Emulators/Roms
 
 * [**PlanetEmu**](https://tinyurl.com/294hy) - (Emulators, Most Consoles, Big Library, DDL, News)
 * [**RomCenter**](https://tinyurl.com/y2vy7ur3) - (Roms, All Consoles, Huge Library, DDL)
@@ -66,7 +70,9 @@
 * [Emulanium](https://tinyurl.com/yxnycry5) - (Roms, Nintendo, Sony, Sega, Big Library, DDL)
 * [Ziperto](https://tinyurl.com/y98r5au6) - (Roms, Nintendo/Sony Consoles, Big Library, DDL)
 
-**Roms (Console Specific)**
+***
+
+###Roms (Console Specific)
 
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
@@ -93,7 +99,9 @@
 * [Neo Geo Collection](https://tinyurl.com/y2egjqz6), [2](https://tinyurl.com/y2egjqz6) - (Roms, Neo Geo, Small Library, DDL)
 * [Pokemon Log](https://tinyurl.com/yx9uuka2) - (Roms, Pokemon Games, Medium Library, DDL)
 
-**Arcade/Retro**
+***
+
+###Arcade/Retro
 
 * Note - Some of the rom sites above have Arcade/Retro aswell.
 * [**PlayRetroGames**](https://tinyurl.com/y65pb8xe) or [Game-Oldies](https://tinyurl.com/d5e9a)  - (Browser Emulator, Retro Consoles, Big Library)
@@ -111,7 +119,9 @@
 * [Old Game Finder](https://tinyurl.com/yaokjtyw) - (Classic Game Search Engine)
 * [WorldsBiggestPacman](https://tinyurl.com/yxvbdph4) - (Worlds Largest game of Pacman)
 
-**Android**
+***
+
+###Android
 
 * [**Android Emulator List**](https://tinyurl.com/y5kym3pp)
 * [Aapks](https://tinyurl.com/yxpcxokk) - (Android, Huge Library, DDL)
@@ -129,7 +139,9 @@
 * [ApkDMod](https://tinyurl.com/y45gvf5p) - (APK Mods, Big Library, DDL)
 * [DarkUmbra](https://tinyurl.com/y2phc3qg) - (Android, Medium Library, DDL)
 
-**Browser**
+***
+
+###Browser
 
 * [**NewGrounds**](https://tinyurl.com/ychczoy7) - (Browser Games)
 * [Armor Games](https://tinyurl.com/3qhn7a4) - (Browser Games)
@@ -138,7 +150,9 @@
 * [OneMoreLevel](https://tinyurl.com/434mm) - (Browser Games)
 * [Orisinal](https://tinyurl.com/87j) - (Browser Games)
 
-**Helpful**
+***
+
+###Helpful
 
 * [**Grouvee**](https://tinyurl.com/yyt4orc4) - (Video Game Database/Tracker)
 * **r/CrackWatch** - (Latest game crack updates)
