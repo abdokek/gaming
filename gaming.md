@@ -159,3 +159,4 @@
 * [NoPayStation](https://tinyurl.com/yy77g2pb) - (Database for PSN content)
 * Backup - [GitHub](https://tinyurl.com/yy8gpgob)
 * [Shortlinks](https://tinyurl.com/y2ge8h48) - (Easily Share/Save Post)
+* *Follow on [Letterboxd](https://letterboxd.com/imtoad/)*
