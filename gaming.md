@@ -11,6 +11,7 @@
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
 * **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
+* **r/PiratedGames**
 * [**FitGirl**](https://tinyurl.com/h6e7wye) - (PC, Huge Library, DDL & Torrents)
 * [**Xatab**](https://tinyurl.com/y58mjdw2) - (PC, Huge Library, Torrents)
 * [**RGMechanics**](https://tinyurl.com/y64een9v) or [RG-Mechanics](https://tinyurl.com/yy2pxng2) - (PC, Huge Library, DDL & Torrents)
@@ -42,6 +43,7 @@
 
 ###Emulators/Roms
 
+* **r/Roms**
 * [**PlanetEmu**](https://tinyurl.com/294hy) - (Emulators, Most Consoles, Big Library, DDL, News)
 * [**RomCenter**](https://tinyurl.com/y2vy7ur3) - (Roms, All Consoles, Huge Library, DDL)
 * [**AlvRo**](https://tinyurl.com/y4pfxr4e) - (Roms, All Consoles, Huge Library, DDL)
