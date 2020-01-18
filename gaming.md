@@ -30,7 +30,6 @@
 * [NitroBlog](https://tinyurl.com/y22965z7) - (PC, Huge Library, DDL)
 * [Ova Games](https://tinyurl.com/ld9xmlg) - (PC, Huge Library, DDL)
 * [Cracked-Games](https://tinyurl.com/zgdx354) - (PC, Big Library, DDL)
-* [SkidRow](https://tinyurl.com/y24cflc7) - (PC, Big Library, DDL)
 * [GLoad](https://tinyurl.com/yxnmy9ht) - (PC, Big Library, DDL)
 * [Rhino Games](https://tinyurl.com/y4bpder7) - (PC, Big Library, DDL)
 * [ReleaseBB Games](https://tinyurl.com/y3dydrtf) - (PC, Big Library, DDL)
