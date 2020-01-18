@@ -144,7 +144,7 @@
 
 ###Browser
 
-* [BlueMaxima](https://tinyurl.com/yb7ajhdu) - (Flash games archive)
+* [**BlueMaxima**](https://tinyurl.com/yb7ajhdu) - (Flash games archive)
 * [**NewGrounds**](https://tinyurl.com/ychczoy7) - (Browser Games)
 * [Armor Games](https://tinyurl.com/3qhn7a4) - (Browser Games)
 * [Kongregate](https://tinyurl.com/6tmh6bv) - (Browser Games)
