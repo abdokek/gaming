@@ -161,4 +161,4 @@
 * [GameCopyWorld](https://tinyurl.com/u87cbll) - (Save files/fixes for games)
 * [NoPayStation](https://tinyurl.com/yy77g2pb) - (Database for PSN content)
 * [Shortlinks](https://tinyurl.com/y2ge8h48) - (Easily Share/Save Post)
-* Backup - [GitHub](https://tinyurl.com/yy8gpgob)
+* Backup's - [Raddle](https://tinyurl.com/v8eq8f8), [Github](https://github.com/Quakes4days123), [Ceddit](https://tinyurl.com/sdm58nb), [Archive](https://tinyurl.com/wtmllju)
