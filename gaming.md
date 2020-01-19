@@ -7,7 +7,7 @@
 
 ***
 
-###PC
+**PC**
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
 * **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
@@ -42,7 +42,7 @@
 
 ***
 
-###Emulators/Roms
+**Emulators/Roms**
 
 * **r/Roms**
 * [**PlanetEmu**](https://tinyurl.com/294hy) - (Emulators, Most Consoles, Big Library, DDL, News)
@@ -73,7 +73,7 @@
 
 ***
 
-###Roms (Console Specific)
+**Roms (Console Specific)**
 
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
@@ -102,7 +102,7 @@
 
 ***
 
-###Arcade/Retro
+**Arcade/Retro**
 
 * Note - Some of the rom sites above have Arcade/Retro aswell.
 * [**PlayRetroGames**](https://tinyurl.com/y65pb8xe) or [Game-Oldies](https://tinyurl.com/d5e9a)  - (Browser Emulator, Retro Consoles, Big Library)
@@ -122,7 +122,7 @@
 
 ***
 
-###Android
+**Android**
 
 * [**Android Emulator List**](https://tinyurl.com/y5kym3pp)
 * [Aapks](https://tinyurl.com/yxpcxokk) - (Android, Huge Library, DDL)
@@ -142,7 +142,7 @@
 
 ***
 
-###Browser
+**Browser**
 
 * [**BlueMaxima**](https://tinyurl.com/yb7ajhdu) - (Flash games archive)
 * [**NewGrounds**](https://tinyurl.com/ychczoy7) - (Browser Games)
@@ -154,7 +154,7 @@
 
 ***
 
-###Helpful
+**Helpful**
 
 * [**Grouvee**](https://tinyurl.com/yyt4orc4) - (Video Game Database/Tracker)
 * **r/CrackWatch** - (Latest game crack updates)
