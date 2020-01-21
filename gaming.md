@@ -1,9 +1,9 @@
 * **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
+* **[Discord](https://discord.gg/vgnaeka)** - (Our Community Chat)
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
 * [Music, Podcasts & Radio](https://redd.it/dhw2lh)
-* [Discord](https://discord.gg/rV5jR3) (Community Chat)
 
 ***
 
