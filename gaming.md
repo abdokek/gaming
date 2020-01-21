@@ -1,4 +1,4 @@
-* **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
@@ -9,7 +9,7 @@
 
 **PC**
 
-* **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
+* **Important** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting. 
 * **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
 * **r/PiratedGames**
 * [**FitGirl**](https://tinyurl.com/h6e7wye) - (PC, Huge Library, DDL & Torrents)
@@ -160,5 +160,5 @@
 * **r/CrackWatch** - (Latest game crack updates)
 * [GameCopyWorld](https://tinyurl.com/u87cbll) - (Save files/fixes for games)
 * [NoPayStation](https://tinyurl.com/yy77g2pb) - (Database for PSN content)
-* [Shortlinks](https://tinyurl.com/y2ge8h48) - (Easily Share/Save Post)
-* [**Sub Backups**](https://tinyurl.com/qm8tqwv)
+* [Shortlinks](https://github.com/freemediaheckyeah/gaming/wiki/Shareable-Short-Links) - (Easily Share/Save Post)
+* [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
