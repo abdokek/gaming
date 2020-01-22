@@ -123,7 +123,8 @@
 
 **Android**
 
-* [**Android Emulator List**](https://tinyurl.com/y5kym3pp)
+* [Bluestacks](https://tinyurl.com/pf7ahx8)
+* [DarkUmbra](https://tinyurl.com/udkda3l) - (Android, Medium Library, DDL)
 * [Aapks](https://tinyurl.com/yxpcxokk) - (Android, Huge Library, DDL)
 * [APKPure](https://tinyurl.com/y5wf54w8)  - (Android, Huge Library, DDL)
 * [APK4Fun](https://tinyurl.com/y48mr9kv) - (Android, Huge Library, DDL)
@@ -137,7 +138,6 @@
 * [APK-DL](https://tinyurl.com/y6dzdb8x) - (Android, Huge Library, DDL)
 * [ModsAPK](https://tinyurl.com/yyh2s2mt) - (APK Mods, Big Library, DDL)
 * [ApkDMod](https://tinyurl.com/y45gvf5p) - (APK Mods, Big Library, DDL)
-* [DarkUmbra](https://tinyurl.com/y2phc3qg) - (Android, Medium Library, DDL)
 
 ***
 
