@@ -123,7 +123,7 @@
 
 **Android**
 
-* [Bluestacks](https://tinyurl.com/pf7ahx8)
+* [Bluestacks](https://tinyurl.com/pf7ahx8) - (Android Emulator
 * [DarkUmbra](https://tinyurl.com/udkda3l) - (Android, Medium Library, DDL)
 * [Aapks](https://tinyurl.com/yxpcxokk) - (Android, Huge Library, DDL)
 * [APKPure](https://tinyurl.com/y5wf54w8)  - (Android, Huge Library, DDL)
