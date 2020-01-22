@@ -149,7 +149,6 @@
 * [Kongregate](https://tinyurl.com/6tmh6bv) - (Browser Games)
 * [AddictingGames](https://tinyurl.com/36vcfbq) - (Browser Games)
 * [OneMoreLevel](https://tinyurl.com/434mm) - (Browser Games)
-* [Orisinal](https://tinyurl.com/87j) - (Browser Games)
 
 ***
 
