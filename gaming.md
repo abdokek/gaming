@@ -7,7 +7,7 @@
 
 ***
 
-**PC**
+**PC/Mac**
 
 * **Important** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting. 
 * **[How to verify a game is safe to install](https://www.reddit.com/r/Piracy/wiki/vetting_game_downloads)**
