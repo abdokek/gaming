@@ -43,6 +43,7 @@
 
 **Emulators/Roms**
 
+* [**Recommended Emulator Specs**](https://tinyurl.com/st4zjtf)
 * **r/Roms**
 * [**PlanetEmu**](https://tinyurl.com/294hy) - (Emulators, Most Consoles, Big Library, DDL, News)
 * [**RomCenter**](https://tinyurl.com/w2tz55j) - (Roms, All Consoles, Huge Library, DDL)
