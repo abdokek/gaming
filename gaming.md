@@ -19,7 +19,6 @@
 * [SteamUnblocked](https://tinyurl.com/vofj2ha) - (PC/, Big Library, DDL)
 * [ElAmigo](https://tinyurl.com/y2cz9azw) - (PC, Big Library, DDL & Torrents)
 * [WorldSRC](https://tinyurl.com/yyg6a7o5) - (PC, Big Library, DDL & Torrents)
-* [Codex](https://tinyurl.com/y28ufttk) - (PC, Big Library, Torrents)
 * [Qoob](https://tinyurl.com/y6c9u4bt) - (PC, Big Library, Torrents)
 * [BlackBox](https://tinyurl.com/p5egh5f) - (PC, Medium Library, DDL & Torrents)
 * [Torrents Games](https://tinyurl.com/y44gewr4) - (PC/Mac, Huge Library, Torrents) 
