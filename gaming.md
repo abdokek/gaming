@@ -96,7 +96,7 @@
 * [Dreamcast  Collection](https://tinyurl.com/yybcdjnm) - (Roms, Dreamcast, Medium Library, DDL)
 * [Sega Saturn Collection](https://tinyurl.com/zhlmxst), [Collection 2](https://tinyurl.com/yyldrs56) - (Roms, Sega Saturn, Big Library, DDL)
 * [Sega MegaDrive Collection](https://tinyurl.com/y6jt8t82) - (Roms, Sega MegaDrive, Big Library, DDL)
-* [Neo Geo Collection](https://tinyurl.com/y2egjqz6), [2](https://tinyurl.com/y2egjqz6) - (Roms, Neo Geo, Small Library, DDL)
+* [Neo Geo Collection](https://tinyurl.com/y2egjqz6) - (Roms, Neo Geo, Small Library, DDL)
 * [Pokemon Log](https://tinyurl.com/yx9uuka2) - (Roms, Pokemon Games, Medium Library, DDL)
 
 ***
