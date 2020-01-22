@@ -76,7 +76,7 @@
 
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
-* [PS3 Iso](https://tinyurl.com/y68ktfvo) - (Roms, PS3, Medium Library, DDL)
+* [PS3 Iso](https://tinyurl.com/thz2em8) - (Roms, PS3, Medium Library, DDL)
 * [CPY PS4](https://tinyurl.com/y5vsdpeh) - (Roms, PS4, Medium Library, DLL & Torrents)
 * r/PkgLinks - (Roms, PS4, Medium Library)
 * [PSVita Iso](https://tinyurl.com/yykfz3ft) - (Roms, PSVita, Medium Library, DDL)
