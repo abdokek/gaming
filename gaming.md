@@ -21,6 +21,7 @@
 * [WorldSRC](https://tinyurl.com/yyg6a7o5) - (PC, Big Library, DDL & Torrents)
 * [Qoob](https://tinyurl.com/y6c9u4bt) - (PC, Big Library, Torrents)
 * [BlackBox](https://tinyurl.com/p5egh5f) - (PC, Medium Library, DDL & Torrents)
+* [Game3Rb](https://tinyurl.com/yxgef2zo) - (PC, Big Library, Torrents)
 * [Torrents Games](https://tinyurl.com/y44gewr4) - (PC/Mac, Huge Library, Torrents) 
 * [CroTorrents](https://tinyurl.com/y99lbpok) - (PC, Medium Library, Torrents)
 * [GamesTorrents](https://tinyurl.com/y2te47fa) - (PC, Small Library, Torrents)
@@ -34,10 +35,12 @@
 * [GLoad](https://tinyurl.com/yxnmy9ht) - (PC, Big Library, DDL)
 * [Rhino Games](https://tinyurl.com/y4bpder7) - (PC, Big Library, DDL)
 * [ReleaseBB Games](https://tinyurl.com/y3dydrtf) - (PC, Big Library, DDL)
+* [Crohasit](https://tinyurl.com/yy4ughtg) - (PC, Medium Library, DDL)
 * [Ziperto](https://tinyurl.com/y98r5au6) - (PC, Small Library, DDL)
 * [Macintosh Garden](https://tinyurl.com/ml37l5) - (Mac, Medium Library, DDL)
 * [MacGameFiles](https://tinyurl.com/y6f5lsn3) - (Mac, Big Library, DDL)
 * [nMac](https://tinyurl.com/wwbk8ep) - (Mac, Medium Library, DDL)
+* [PC Josh](https://tinyurl.com/jv8ywpn) - (Archive of Games)
 
 ***
 
