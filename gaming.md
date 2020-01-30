@@ -36,9 +36,7 @@
 * [ReleaseBB Games](https://tinyurl.com/y3dydrtf) - (PC, Big Library, DDL)
 * [Crohasit](https://tinyurl.com/yy4ughtg) - (PC, Medium Library, DDL)
 * [Ziperto](https://tinyurl.com/y98r5au6) - (PC, Small Library, DDL)
-* [Macintosh Garden](https://tinyurl.com/ml37l5) - (Mac, Medium Library, DDL)
 * [MacGameFiles](https://tinyurl.com/y6f5lsn3) - (Mac, Big Library, DDL)
-* [nMac](https://tinyurl.com/wwbk8ep) - (Mac, Medium Library, DDL)
 * [PC Josh](https://tinyurl.com/jv8ywpn) - (Archive of Games)
 
 ***
