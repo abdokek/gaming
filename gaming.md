@@ -54,7 +54,6 @@
 * [**RomsMania**](https://tinyurl.com/yyy9qjev) - (Roms, Emulators, Most consoles, Huge Library, DDL)
 * [**Retrostic**](https://tinyurl.com/y65tpn76) - (Roms, Emulators, Most Consoles, Huge Library, DDL)
 * [**Vimms Lair**](https://tinyurl.com/y5eykm25) - (Roms, Emulators, Most Consoles, Huge Library, DDL)
-* [**The-Eye Roms**](https://tinyurl.com/y826xk3o), [2](https://tinyurl.com/y6yjsva6) - (Roms, Most Consoles, Huge Library, DDL)
 * [PleasureDome](https://tinyurl.com/5kq4ly) - (Roms, Most Consoles, Huge Library, Torrents)
 * [RomToHome](https://tinyurl.com/ydhc8lue) - (Roms, Most Consoles, Huge Library, DDL)
 * [EdgeEmulation](https://tinyurl.com/y65qwvdk) - (Roms, Most Consoles, Huge Library, DDL)
