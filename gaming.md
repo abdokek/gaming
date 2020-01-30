@@ -75,7 +75,7 @@
 
 **Roms (Console Specific)**
 
-* [Android Apk Sites](https://tinyurl.com/stf2jsl) - (Android Apk DDL Sites)
+* [Android Apk Sites](https://tinyurl.com/stf2jsl) - (Android Apk DDL Sites) (You can run android games on pc/mac via emulators)
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
 * [PS3 Iso](https://tinyurl.com/thz2em8) - (Roms, PS3, Medium Library, DDL)
