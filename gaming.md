@@ -75,6 +75,7 @@
 
 **Roms (Console Specific)**
 
+* [Android Apk Sites](https://tinyurl.com/stf2jsl) - (Android Apk DDL Sites)
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
 * [PS3 Iso](https://tinyurl.com/thz2em8) - (Roms, PS3, Medium Library, DDL)
@@ -119,26 +120,6 @@
 * [Neo Kobe Collection](https://tinyurl.com/y3g46fp4), [2](https://tinyurl.com/ycoy38ju) - (Roms, Neo Kobe, Small Library, DDL)
 * [Old Game Finder](https://tinyurl.com/yaokjtyw) - (Classic Game Search Engine)
 * [WorldsBiggestPacman](https://tinyurl.com/yxvbdph4) - (Worlds Largest game of Pacman)
-
-***
-
-**Android**
-
-* [Bluestacks](https://tinyurl.com/pf7ahx8) - (Android Emulator)
-* [DarkUmbra](https://tinyurl.com/udkda3l) - (Android, Medium Library, DDL)
-* [Aapks](https://tinyurl.com/yxpcxokk) - (Android, Huge Library, DDL)
-* [APKPure](https://tinyurl.com/y5wf54w8)  - (Android, Huge Library, DDL)
-* [APK4Fun](https://tinyurl.com/y48mr9kv) - (Android, Huge Library, DDL)
-* [APKBucket](https://tinyurl.com/y3avbdmb) - (Android, Huge Library, DDL)
-* [APKMirror](https://tinyurl.com/h4gn78s) - (Android, Huge Library, DDL)
-* [Apkmb](https://tinyurl.com/y5oegpyg) - (Android, Huge Library, DDL)
-* [AppCake](https://tinyurl.com/lrpl7mj) - (Android, Huge Library, DDL)
-* [Androidout](https://tinyurl.com/y458z8qw) - (Android, Huge Library, DDL)
-* [APKTurbo](https://tinyurl.com/y5s2ad83) - (Android, Huge Library, DDL)
-* [APKFree](https://tinyurl.com/yxs48zpz) - (Android, Huge Library, DDL)
-* [APK-DL](https://tinyurl.com/y6dzdb8x) - (Android, Huge Library, DDL)
-* [ModsAPK](https://tinyurl.com/yyh2s2mt) - (APK Mods, Big Library, DDL)
-* [ApkDMod](https://tinyurl.com/y45gvf5p) - (APK Mods, Big Library, DDL)
 
 ***
 
