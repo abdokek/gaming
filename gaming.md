@@ -83,6 +83,7 @@
 * [PSVita Iso](https://tinyurl.com/yykfz3ft) - (Roms, PSVita, Medium Library, DDL)
 * [NoPayStation](https://tinyurl.com/sn6gf2k) - (Roms, All Playstation Consoles, PC, macOS, PS Vita, PS3)
 * [Xbox Collection](https://tinyurl.com/yyp4kywz) - (Roms, Xbox, Huge Library, DDL & Torrents)
+* [WiiU USB Helper](https://tinyurl.com/w5zdk2k) - (Roms, Wiiu, Huge Library, DDL)
 * [Wiiu Iso](https://tinyurl.com/y6q3clhg) - (Roms, Wiiu, Medium Library, DDL)
 * [WiiWare Collection](https://tinyurl.com/yaxc2n4w) - (Roms, WiiWare, Big Library, DDL)
 * r/SwitchNSPs - (Roms, Nintendo Switch, Medium Library, DDL)
